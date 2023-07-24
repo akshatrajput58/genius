@@ -50,3 +50,8 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
+
+## Authors
+
+- [@AntonioErdeljac](https://github.com/AntonioErdeljac)
+- [@akshatrajput58](https://github.com/akshatrajput58/)
