@@ -46,8 +46,10 @@ npx prisma db push
 npm run dev
 ```
 
-## Available commands
+## Add crisp key
+components/crisp-chat.tsx
 
+## Available commands
 Running commands with npm `npm run [command]`
 
 | command         | description                              |
