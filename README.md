@@ -1,6 +1,7 @@
 ## Screenshots
 
-![screenshot-genius vicpra com-2023 07 25-08_58_11](https://github.com/akshatrajput58/genius/assets/61741740/dafc6f0c-d640-4a5d-9782-82bf7e804575)
+![screenshot](https://github.com/akshatrajput58/genius/assets/61741740/5e24819f-3545-461b-82dc-fd890c89201d)
+
 
 
 ### Install packages
