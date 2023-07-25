@@ -1,3 +1,6 @@
+## Screenshots
+
+![App Screenshot](https://github.com/akshatrajput58/genius/blob/main/screenshot-genius.vicpra.com-2023.07.25-08_58_11.png)
 
 ### Install packages
 
